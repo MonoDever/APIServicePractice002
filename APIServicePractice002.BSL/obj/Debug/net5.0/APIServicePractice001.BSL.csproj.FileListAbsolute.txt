@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\bin\Debug\net5.0\APIServicePractice001.BSL.deps.json
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\bin\Debug\net5.0\APIServicePractice001.BSL.dll
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\bin\Debug\net5.0\ref\APIServicePractice001.BSL.dll
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\bin\Debug\net5.0\APIServicePractice001.BSL.pdb
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\bin\Debug\net5.0\APIServicePractice001.DAL.dll
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\bin\Debug\net5.0\APIServicePractice001.DAL.pdb
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\obj\Debug\net5.0\APIServicePractice001.BSL.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\obj\Debug\net5.0\APIServicePractice001.BSL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\obj\Debug\net5.0\APIServicePractice001.BSL.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\obj\Debug\net5.0\APIServicePractice001.BSL.AssemblyInfo.cs
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\obj\Debug\net5.0\APIServicePractice001.BSL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\obj\Debug\net5.0\APIServicePractice001.BSL.csproj.CopyComplete
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\obj\Debug\net5.0\APIServicePractice001.BSL.dll
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\obj\Debug\net5.0\ref\APIServicePractice001.BSL.dll
+C:\Users\Dell\source\repos\APIServicePractice001\APIServicePractice001.BSL\obj\Debug\net5.0\APIServicePractice001.BSL.pdb

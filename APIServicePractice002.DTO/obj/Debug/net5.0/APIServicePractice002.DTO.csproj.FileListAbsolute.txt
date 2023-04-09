@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\APIServicePractice002\APIServicePractice002.DTO\bin\Debug\net5.0\APIServicePractice002.DTO.deps.json
+C:\Users\Dell\source\repos\APIServicePractice002\APIServicePractice002.DTO\bin\Debug\net5.0\APIServicePractice002.DTO.dll
+C:\Users\Dell\source\repos\APIServicePractice002\APIServicePractice002.DTO\bin\Debug\net5.0\ref\APIServicePractice002.DTO.dll
+C:\Users\Dell\source\repos\APIServicePractice002\APIServicePractice002.DTO\bin\Debug\net5.0\APIServicePractice002.DTO.pdb
+C:\Users\Dell\source\repos\APIServicePractice002\APIServicePractice002.DTO\obj\Debug\net5.0\APIServicePractice002.DTO.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\APIServicePractice002\APIServicePractice002.DTO\obj\Debug\net5.0\APIServicePractice002.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\APIServicePractice002\APIServicePractice002.DTO\obj\Debug\net5.0\APIServicePractice002.DTO.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\APIServicePractice002\APIServicePractice002.DTO\obj\Debug\net5.0\APIServicePractice002.DTO.AssemblyInfo.cs
+C:\Users\Dell\source\repos\APIServicePractice002\APIServicePractice002.DTO\obj\Debug\net5.0\APIServicePractice002.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\APIServicePractice002\APIServicePractice002.DTO\obj\Debug\net5.0\APIServicePractice002.DTO.dll
+C:\Users\Dell\source\repos\APIServicePractice002\APIServicePractice002.DTO\obj\Debug\net5.0\ref\APIServicePractice002.DTO.dll
+C:\Users\Dell\source\repos\APIServicePractice002\APIServicePractice002.DTO\obj\Debug\net5.0\APIServicePractice002.DTO.pdb
